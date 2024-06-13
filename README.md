@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-#### Life is short. 
-#### Live with love. 
-#### Be positive. 
-#### Do what makes you happy. 
-#### Don't waste a single second with confusion.
+  <p>Life is short.</p>
+  <p>Live with love.</p>
+  <p>Be positive.</p>
+  <p>Do what makes you happy.</p>
+  <p>Don't waste a single second with confusion.</p>
 </div>
 
 ## GitHub Profile
