@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <h3>Life is short.</h3>
-  <h3>Live with love.</h3>
-  <h3>Be positive.</h3>
-  <h3>Do what makes you happy.</h3>
-  <h3>Don't waste a single second with confusion.</h3>
+<div style="text-align: center;">
+#### Life is short. 
+#### Live with love. 
+#### Be positive. 
+#### Do what makes you happy. 
+#### Don't waste a single second with confusion.
 </div>
 
 ## GitHub Profile
