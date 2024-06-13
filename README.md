@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Life is short. 
-#### Live with love. 
-#### Be positive. 
-#### Do what makes you happy. 
-#### Don't waste a single second with confusion.
+<div align="center">
+  <h4>Life is short.</h4>
+  <h4>Live with love.</h4>
+  <h4>Be positive.</h4>
+  <h4>Do what makes you happy.</h4>
+  <h4>Don't waste a single second with confusion.</h4>
+</div>
 
 ## GitHub Profile
 
