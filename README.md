@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ## GitHub Profile
 
 <div>
+  <a href="https://github.com/waithawoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waithawoo&show_icons=true&theme=radical"/>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waithawoo&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
