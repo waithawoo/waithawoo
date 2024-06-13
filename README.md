@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/waithawoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waithawoo&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waithawoo&layout=donutl&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waithawoo&layout=donut&langs_count=10&theme=radical"/>
 </div>
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waithawoo&repo=laravel-deeplapi-translate)](https://github.com/waithawoo/laravel-deeplapi-translate)-->
