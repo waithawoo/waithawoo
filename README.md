@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align: center;">
+<div align="center">
 #### Life is short. 
 #### Live with love. 
 #### Be positive. 
