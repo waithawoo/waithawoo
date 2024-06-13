@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### Life is short. Live with love. Be positive. Do what makes you happy. Don't waste a single second with confusion.
+####          Life is short. Live with love. Be positive. Do what makes you happy. Don't waste a single second with confusion.
 ## GitHub Profile
 
 <div>
